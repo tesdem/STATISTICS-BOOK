@@ -1,0 +1,10 @@
+{
+  "chapter": "43",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "first_period_count": 32,
+  "last_period_count": 183,
+  "figure_path": "outputs/figures/chapter_43_main.png"
+}

@@ -1,0 +1,11 @@
+{
+  "chapter": "22A",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "theoretical_cramer_rao_n640": 0.0140625,
+  "simulated_variance_n640": 0.014426385477679111,
+  "bias_n640": -0.021041996788520256,
+  "figure_path": "outputs/figures/chapter_22a_main.png"
+}

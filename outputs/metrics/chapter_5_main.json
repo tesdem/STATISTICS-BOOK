@@ -1,0 +1,11 @@
+{
+  "chapter": "5",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "population_mean": 49.9446593754076,
+  "se_at_n30": 2.2561913829086553,
+  "se_at_n960": 0.3902271224524613,
+  "figure_path": "outputs/figures/chapter_5_main.png"
+}

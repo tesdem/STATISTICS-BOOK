@@ -1,0 +1,9 @@
+{
+  "chapter": "46",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "sample_excess_kurtosis": 7.4181958186745405,
+  "figure_path": "outputs/figures/chapter_46_main.png"
+}

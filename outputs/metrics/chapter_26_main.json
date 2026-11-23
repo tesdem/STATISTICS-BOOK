@@ -1,0 +1,11 @@
+{
+  "chapter": "26",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "true_full_mean": -0.01204040460639911,
+  "complete_case_mean": -0.2813537963897199,
+  "missing_rate": 0.31,
+  "figure_path": "outputs/figures/chapter_26_main.png"
+}

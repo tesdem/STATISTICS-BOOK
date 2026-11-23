@@ -1,0 +1,9 @@
+{
+  "chapter": "37",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "brier_score": 0.18846446310599105,
+  "figure_path": "outputs/figures/chapter_37_main.png"
+}

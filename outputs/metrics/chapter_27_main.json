@@ -1,0 +1,11 @@
+{
+  "chapter": "27",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "slope": 1.5065242955636844,
+  "intercept": 2.002362830820193,
+  "r_squared": 0.6330953555013176,
+  "figure_path": "outputs/figures/chapter_27_main.png"
+}

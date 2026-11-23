@@ -1,0 +1,9 @@
+# Chapter 13: The Nature, Origins and Quality of Data
+
+File: `chapter_13_main.ipynb`.
+
+**WHAT:** The Nature, Origins and Quality of Data.
+
+**WHY:** This laboratory uses a fixed-seed synthetic design to make a chapter concept observable; numerical examples are assumptions-dependent and are not claims about a real population.
+
+**HOW:** Run the notebook from the repository root. Requires `scripts/lab_engine.py`; exports figure and metrics. Data are simulated.

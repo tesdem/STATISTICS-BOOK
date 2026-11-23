@@ -1,0 +1,9 @@
+{
+  "chapter": "32A",
+  "variant": "reversal",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "decision_reversal_epsilon": 0.4166666666666667,
+  "figure_path": "outputs/figures/chapter_32a_reversal.png"
+}

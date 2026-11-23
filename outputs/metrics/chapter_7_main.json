@@ -1,0 +1,10 @@
+{
+  "chapter": "7",
+  "variant": "main",
+  "seed": 20261123,
+  "evidence_class": "SYNTHETIC_TEACHING_SIMULATION",
+  "limitations": "Results depend on the stated simulated data-generating assumptions; not external validation.",
+  "sample_mean": 0.014277195540589769,
+  "sample_variance": 1.0191291039681547,
+  "figure_path": "outputs/figures/chapter_7_main.png"
+}
