@@ -1,6 +1,6 @@
-# STATISTICS-BOOK — MASTER_V9 Companion Repository
+# STATISTICS-BOOK
 
-**Book:** Statistics: The Science of Evidence, Uncertainty and Decision-Making (MASTER_V9).
+**Book:** Statistics: The Science of Evidence, Uncertainty and Decision-Making.
 
 **Destination:** https://github.com/tesdem/STATISTICS-BOOK
 
